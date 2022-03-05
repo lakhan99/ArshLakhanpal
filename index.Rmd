@@ -2,7 +2,7 @@
 title: "Arsh Lakhanpal"
 image: "download.png"
 links:
-  - label: LinkedIn
+  - label: Resume/CV
     url: "https://linkedin.com/"
   - label: Twitter
     url: "https://twitter.com/"
