@@ -16,7 +16,11 @@ output:
  
 ## About myself 
 
-I am a third year students who is majoring Actuarial Science and Statistics while minoring in Mathematics at the University of Toronto. I find the idea of working with data and producing graphs and tables to tell a story about the data extremely fascinating and rewarding. 
+I am a third year students who is majoring Actuarial Science and Statistics while minoring in Mathematics at the University of Toronto. I am from India and came to Canada in 2006 and attended all levels of schooling in Toronto.
+
+The reason I decided to study Statistics is because I enjoy working with data. I find the idea of taking raw data and producing graphs and tables to tell a story about it extremely fascinating and rewarding. My younger self would always work with numbers and because of that I decided that I would study Actuarial Science as well.  
+
+In my free time, I enjoy playing the guitar, specifically learning finger style variations of some of my favorite songs! 
 
 Frank Hermosillo studies neural networks and their applications at Google 
 Brain. His research focuses on differentiable network pruning approximation and 
@@ -29,11 +33,10 @@ Times Magazine.
 
 **University of Toronto, St. George Campus** | Toronto, ON
 
-Honours Bachelor of Science | September 2019 - Present
+Honors Bachelor of Science | September 2019 - Present
 
 
 ## Experience
 
-**Google Brain** | Principal Investigator | January 2018 - Present
+**Walmart** | Cap 2/ Fulfillment Associate | December 2020 - Present
 
-**Netflix** | Research Scientist | June 2014 - December 2017
