@@ -1,0 +1,39 @@
+---
+title: "Arsh Lakhanpal"
+image: "download.png"
+links:
+  - label: LinkedIn
+    url: "https://linkedin.com/"
+  - label: Twitter
+    url: "https://twitter.com/"
+  - label: GitHub
+    url: "https://github.com/lakhan99"
+  - label: Email
+    url: "mailto:arsh.lakhanpal@mail.utoronto.ca"
+output:
+  postcards::trestles
+---
+ 
+## About myself 
+
+I am a third year students who is majoring Actuarial Science and Statistics while minoring in Mathematics at the University of Toronto. I find the idea of working with data and producing graphs and tables to tell a story about the data extremely fascinating and rewarding. 
+
+Frank Hermosillo studies neural networks and their applications at Google 
+Brain. His research focuses on differentiable network pruning approximation and 
+decentralized gradient inversion mechanics. He frequently collaborates with 
+researchers who study machine learning, computer vision, and cognitive science.
+His work has been featured in WIRED, The Atlantic, Newsweek, and The New York 
+Times Magazine.
+
+## Education
+
+**University of Toronto, St. George Campus** | Toronto, ON
+
+Honours Bachelor of Science | September 2019 - Present
+
+
+## Experience
+
+**Google Brain** | Principal Investigator | January 2018 - Present
+
+**Netflix** | Research Scientist | June 2014 - December 2017
